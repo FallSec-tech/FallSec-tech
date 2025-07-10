@@ -2,10 +2,15 @@
 <div align="center">
   <small><strong>About me</strong></small>
 </div>
+
+---
+
 <p>Name : Faiq Naufal Majid</p>
 <p>age  : 19 tahun</p>
 <p>Hobi : Ngoding, game, desain</p>
 <p>Role : Newtork Engineer | Cyber Security</p>
+
+---
 
 <h2>Languages and Tools </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
