@@ -10,7 +10,7 @@
 
 ---
 
-<div align= "center"><strong>Languages and Tools </strong></div><br>
+<div align= "center"><span style = "font-size: 24px;"><strong>Languages and Tools </strong></span></div><br>
 
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-<div align= "center"><strong>My Sosmed </strong></div><br>
+<div align= "center"><span style="font-size: 24px;"><strong>My Sosmed </strong></span></div><br>
 
 
 <p>
