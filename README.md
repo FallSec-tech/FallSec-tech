@@ -27,15 +27,20 @@
 <p align="center">
   <sub> Hai Guys, mau nambah temen? bawah ini solusinya 😊</sub>
 </p>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/faiqnaufall" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/faiqnaufall" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a target="_blank" href="https://www.instagram.com/faiqqnaufall_" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-  </a>
+  <a href="https://www.instagram.com/faiqqnaufall_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
-</p>
+
+###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FallSec-tech&show_icons=true&locale=en" alt="FallSec-tech" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FallSec-tech&" alt="FallSec-tech" /></p>
