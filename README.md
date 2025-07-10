@@ -24,10 +24,10 @@
 
 <div align= "center"><span style="font-size: 24px;"><strong>My Sosmed </strong></span></div><br>
 
-
-<p>
-<div align= "center">
-<h1 style= "font-size: 12px;">hai kawan , yuk saling mutual itung" menjalin networking 😊</h1>
+<p align="center">
+  <sub> Hai Guys, mau nambah temen? bawah ini solusinya 😊</sub>
+</p>
+<p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/faiqnaufall" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
