@@ -1,6 +1,6 @@
 ![FallSec-tech](img/github-header-image%203.png)
 <div align="center">
-  <small><strong>About me</strong></small>
+  <small>**About me**</small>
 </div><br>
 
 <p>Name : Faiq Naufal Majid</p>
