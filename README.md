@@ -1,7 +1,7 @@
 ![FallSec-tech](img/github-header-image%203.png)
 <div align="center">
   <small><strong>About me</strong></small>
-</div>
+</div><br>
 
 <p>Name : Faiq Naufal Majid</p>
 <p>age  : 19 tahun</p>
