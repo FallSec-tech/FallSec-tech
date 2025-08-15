@@ -4,9 +4,8 @@
 </div><br>
 
 <p>Name : Faiq Naufal Majid</p>
-<p>age  : 19 tahun</p>
 <p>Hobi : Ngoding, game, desain</p>
-<p>Role : Network Engineer | Cyber Security</p>
+<p>Role : Network Engineer | Cyber Security (Freelance Available)</p>
 
 ---
 
