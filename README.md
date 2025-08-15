@@ -1,4 +1,4 @@
-![FallSec-tech](img/github-header-image%203.png)
+![FallSec-tech](img/github-header-banner.png)
 <div align="center">
   <small><strong>About me</strong></small>
 </div><br>
