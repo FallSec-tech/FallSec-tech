@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,kali,linux,nodejs,py,js&perline=4" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,kali,linux,nodejs,py,dart,flutter,js&perline=4" alt="My Skills" />
   </a>
 </p>
 
