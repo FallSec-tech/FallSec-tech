@@ -4,8 +4,7 @@
 </div><br>
 
 <p>Name : Faiq Naufal Majid</p>
-<p>Hobi : Ngoding, game, desain</p>
-<p>Role : Network Engineer | Cyber Security (Freelance Available)</p>
+<p>Role : Junior Network Engineer (Freelance Available)</p>
 
 ---
 
