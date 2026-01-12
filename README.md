@@ -34,5 +34,4 @@ Daily       : Linux, Docker, Nginx, Node.js, Python, C++ , Kali Linux
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=4EA1FF" />
-  <img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
