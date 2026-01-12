@@ -35,3 +35,23 @@ Daily       : Linux, Docker, Nginx, Node.js, Python, C++ , Kali Linux
   <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF0033" />
   <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=4EA1FF" />
 </p>
+
+<br/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Connect_with_me-111827?style=for-the-badge&labelColor=1f2937" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faiqnaufall">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/USERNAME_TELEKAMU">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/USERNAME_IG">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
